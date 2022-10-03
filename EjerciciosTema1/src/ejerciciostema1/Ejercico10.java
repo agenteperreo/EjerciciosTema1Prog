@@ -12,6 +12,9 @@ public class Ejercico10 {
 		
 		//Abrimos el escaner
 		Scanner sc = new Scanner(System.in);
+		
+		//Pedidmos la medida en metros
+		Syso;
 
 	}
 
